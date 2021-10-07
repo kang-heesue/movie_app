@@ -1,3 +1,3 @@
 # Movie App
 
-[🎬  Movie App Link!!](https://kang-heesue.github.io/movie_app/#/)
+### [Movie App으로 이동 🎞](https://kang-heesue.github.io/movie_app/#/)
