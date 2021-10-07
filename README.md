@@ -1,3 +1,3 @@
 # Movie App
 
-React JS Fundamentals Course
+[🎬 Movie App Link!!](https://kang-heesue.github.io/movie_app/#/)
